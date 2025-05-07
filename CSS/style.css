@@ -111,3 +111,11 @@ button{
     height: 3em;
     width: 16em;
 }
+:is(.Santa, .Frutal,.Parque,.centra){
+    background-color: greenyellow;
+    height: 3em;
+    width: 16em;
+}
+.Sa{
+    background-color: greenyellow;
+}
